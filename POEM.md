@@ -9,3 +9,12 @@ Money Bandz
 Blockchain money bandz
 
 Crypto!
+
+Hello Anthony!
+Hello teach!!
+I love code
+I love beach
+I don't got stacks
+But I got snacks
+
+Cats!
