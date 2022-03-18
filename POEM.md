@@ -10,6 +10,7 @@ Blockchain money bandz
 
 Crypto!
 
+<<<<<<< HEAD
 Hello Anthony!
 Hello teach!!
 I love code
@@ -18,3 +19,7 @@ I don't got stacks
 But I got snacks
 
 Cats!
+=======
+This is my first open source
+I have no remorse!
+>>>>>>> b2b8c33e83ec11b87c2cceb81b8e593ef08aa67c
