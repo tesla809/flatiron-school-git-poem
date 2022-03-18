@@ -9,3 +9,6 @@ Money Bandz
 Blockchain money bandz
 
 Crypto!
+
+This is my first open source
+I have no remorse!
